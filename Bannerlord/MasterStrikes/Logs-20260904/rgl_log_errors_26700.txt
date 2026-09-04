@@ -1,0 +1,11 @@
+Setting breakpad minidump AppID = 261550
+SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561197986692320 [API loaded no]
+
+Process is terminated due to StackOverflowException.
+] Conversation sound playing: ..\..\Modules\SandBox/ModuleData/Languages/VoicedLines/EN/PC/sturgian_male_generic_wWwoTzpG.ogg, position: (115.1435, 216.8255, 0.2347937) 
+[16:34:52.624] Conversation sound playing: ..\..\Modules\SandBox/ModuleData/Languages/VoicedLines/EN/PC/sturgian_male_generic_wWwoTzpG.ogg, position: (261.4561, 297.7571, 3.756851) 
+[16:35:44.075] Conversation sound playing: ..\..\Modules\SandBox/ModuleData/Languages/VoicedLines/EN/PC/sturgian_male_generic_wWwoTzpG.ogg, position: (333.9197, 397.543, 3.252777) 
+[16:35:54.787] Conversation sound playing: ..\..\Modules\SandBox/ModuleData/Languages/VoicedLines/EN/PC/sturgian_female_generic_wWwoTzpG.ogg, position: (115.1435, 216.8255, 0.2347937) 
+[16:36:29.750] Conversation sound playing: ..\..\Modules\SandBox/ModuleData/Languages/VoicedLines/EN/PC/battanian_male_curt_005.ogg, position: (261.4561, 297.7571, 3.756851) 
+[16:36:59.588] Conversation sound playing: ..\..\Modules\SandBox/ModuleData/Languages/VoicedLines/EN/PC/sturgian_male_ironic_WACwhm8r.ogg, position: (115.1435, 216.8255, 0.2347937) 
+[16:37:23.533] Conversation sound playing: ..\..\Modules\SandBox/ModuleData/Languages/VoicedLines/EN/PC/sturgian_male_ironic_WACwhm8r.ogg, position: (115.1435, 216.8255, 0.2347937) 
